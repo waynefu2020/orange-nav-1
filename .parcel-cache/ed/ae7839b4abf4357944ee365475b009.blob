@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>小橘前端导航站</title>
+    <link rel="stylesheet" href="76d74868bf480873460adb8aad1df89c">
+    <style data-parcel-key="614002df12eadc494c36b1d85e72167f">
+        .icon {
+            width: 1em; height: 1em;
+            vertical-align: -0.15em;
+            fill: currentColor;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <header class="globalHeader">
+        <form class="searchForm" action="https://www.baidu.com/s" method="get">
+            <input type="text" name="wd">
+            <button type="submit">搜索</button>
+        </form>
+    </header>
+    <main class="globalMain">
+        <ul class="siteList">
+            <li class="last">
+                <div class="addButton">
+                    <div class="icon-wrapper">
+                        <svg class="icon">
+                            <use xlink:href="#icon-add"></use>
+                        </svg>
+                    </div>
+                    <div class="title">新增网站</div>
+                </div>
+            </li>
+        </ul>
+    </main>
+    <script src="c6b74a3b6b73f42b45104c37b6ff8cea"></script>
+    <script src="47676c91fc09c03cfb5eb6642afe6622"></script>
+    <script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</body>
+</html>
